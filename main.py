@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import matplotlib.pyplot as plt
 
-api_key = 'KALVGV41M0VG1DKM'
+api_key = 'YOUR API KEY'
 symbol = input("Symbol of the company: ").upper()
 
 try:
